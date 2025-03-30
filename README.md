@@ -22,18 +22,6 @@ Payment Integration: Secure payment processing.
 
 Search and Filters: Easily find products using search and category filters.
 
-Technologies Used
-
-Frontend: React Native / Flutter
-
-Backend: Node.js / Django / Firebase
-
-Database: MongoDB / PostgreSQL / Firebase Realtime Database
-
-Authentication: Firebase Authentication / JWT-based authentication
-
-Payment Gateway: Stripe / Razorpay / PayPal
-
 Installation
 
 Follow these steps to set up the Shopping App locally:
@@ -44,11 +32,9 @@ git clone https://github.com/Chaitanyajaiswal/Shoping-App.git
 cd Shoping-App
 
 Install dependencies:
-
 npm install  # For Node.js backend
 or
 pip install -r requirements.txt  # For Python backend
-
 Start the development server:
 
 npm start  # For React-based frontend
@@ -75,4 +61,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 
-For any issues or suggestions, feel free to open an issue or contact [Your Email or GitHub Profile].
+For any issues or suggestions, feel free to open an issue or contact [chaitanya07jaiswal@gmail.com].
+Author : Chaitanya
+<br>
+Android Appication to setup your shopping stuff
